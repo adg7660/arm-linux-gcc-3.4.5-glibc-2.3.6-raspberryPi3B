@@ -1,0 +1,2 @@
+#!/bin/sh
+distcc /home/kyj/Tools/gcc-3.4.5-glibc-2.3.6/bin/arm-linux-c++ "$@"
